@@ -1,0 +1,5 @@
+D:\DemoClickOnceAppCICD\DemoClickOnceAppCICD\DemoClickOnceAppCICD\DemoClickOnceAppCICD\bin\publish\DemoClickOnceAppCICD.exe
+D:\DemoClickOnceAppCICD\DemoClickOnceAppCICD\DemoClickOnceAppCICD\DemoClickOnceAppCICD\bin\publish\DemoClickOnceAppCICD.dll
+D:\DemoClickOnceAppCICD\DemoClickOnceAppCICD\DemoClickOnceAppCICD\DemoClickOnceAppCICD\bin\publish\DemoClickOnceAppCICD.deps.json
+D:\DemoClickOnceAppCICD\DemoClickOnceAppCICD\DemoClickOnceAppCICD\DemoClickOnceAppCICD\bin\publish\DemoClickOnceAppCICD.runtimeconfig.json
+D:\DemoClickOnceAppCICD\DemoClickOnceAppCICD\DemoClickOnceAppCICD\DemoClickOnceAppCICD\bin\publish\DemoClickOnceAppCICD.pdb
