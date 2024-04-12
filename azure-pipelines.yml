@@ -47,7 +47,7 @@ steps:
 
 - task: CopyFiles@2
   inputs:
-    SourceFolder: 'DemoApp\\DemoApp\\bin\\publish'
+    SourceFolder: 'DemoClickOnceAppCICD\\DemoClickOnceAppCICD\\bin\\publish'
     Contents: '**\*'
     TargetFolder: '$(Build.ArtifactStagingDirectory)'
 
